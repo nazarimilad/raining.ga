@@ -1,0 +1,9 @@
+body {
+	color: #242C35;
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
